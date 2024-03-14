@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lier
-- 👀 I’m interested in game develop
-- 🌱 I’m currently learning react and vue
-- 💞️ I’m looking to collaborate on game dev
+- 👀 interested in game develop
+- 🌱 currently working on Portfolio Table
+- 💞️ looking to collaborate on game dev
 - 📫 leeerh98@gmail.com
 
 
