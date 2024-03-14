@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elena-1998
+- 👋 Hi, I’m Lier
 - 👀 I’m interested in game develop
 - 🌱 I’m currently learning react and vue
 - 💞️ I’m looking to collaborate on game dev
