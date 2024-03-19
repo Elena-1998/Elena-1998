@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lier
 - 👀 interested in game develop
-- 🌱 currently working on Portfolio Table
-- 💞️ looking to collaborate on game dev
+- 🌱 currently working on Typing Game
+- 💞️ looking to collaborate on indie game dev
 - 📫 leeerh98@gmail.com
 
 
