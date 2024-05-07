@@ -3,7 +3,6 @@
 - 🌱 currently working on Typing Game
 - 💞️ looking to collaborate on indie game dev
 - 📫 leeerh98@gmail.com
-https://keycode-76.github.io/
 
 <!---
 Elena-1998/Elena-1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
