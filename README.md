@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Lier
-- 👀 interested in game develop
-- 🌱 currently working on Typing Game
-- 💞️ looking to collaborate on indie game dev
+- 👋 Hi, I’m L
+- 👀 an indie game developer
+- 🌱 currently working on horror game
 - 📫 leeerh98@gmail.com
 
 <!---
